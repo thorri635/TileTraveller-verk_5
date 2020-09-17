@@ -21,3 +21,5 @@ while location != (3,1):
             print("Not a valid direction!")
     elif loaction == (1,3):
         print("You can travel: (E)ast or (S)outh")
+
+        print("Thorri u are a god damn faget")
