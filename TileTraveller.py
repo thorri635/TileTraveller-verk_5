@@ -21,6 +21,7 @@ while location != (3,1):
             print("Not a valid direction!")
     if location == (1,3):
         print("You can travel: (E)ast or (S)outh")
+<<<<<<< HEAD
         the_way = input("Direction")
         if the_way == 'E' or the_way =='e':
             location = (2,3)
@@ -73,3 +74,7 @@ while location != (3,1):
 
 if location ==(3,1):
     print('Victory')
+=======
+
+        print("Thorri u are a god damn faget")
+>>>>>>> 0e2ea3cb253e3976e11571ad2519425d72eb73b2
